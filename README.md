@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @534eagle
-- 👀 I’m interested in mindustry.
-- 🌱 I’m currently learning java, libgdx, gradle.
+- 👀 I’m interested in C#,ShapeEngine.
+- 🌱 I’m currently learning geometry-nodes in blender 4.5 LTS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
