@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @534eagle
-- 👀 I’m interested in C#,ShapeEngine.
-- 🌱 I’m currently learning geometry-nodes in blender 4.5 LTS.
+- 👀 I’m interested in godot game engine.
+- 🌱 I’m currently learning C#,ShapeEngine.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
